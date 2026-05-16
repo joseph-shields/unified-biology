@@ -36,6 +36,7 @@ exists nowhere else. It cannot be copied.
 | Paper | Description |
 |---|---|
 | [`papers/three_channels_biology.tex`](papers/three_channels_biology.tex) | Core mapping: the three natures in the nervous system |
+| [`papers/consciousness_boundary_state.tex`](papers/consciousness_boundary_state.tex) | Consciousness as boundary state; the self; tools and extension of mind |
 | [`papers/channel_imbalance_psychiatry.tex`](papers/channel_imbalance_psychiatry.tex) | Mental illness as channel imbalance; treatment reframed |
 
 ---
