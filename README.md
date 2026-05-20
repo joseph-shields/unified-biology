@@ -44,7 +44,7 @@ exists nowhere else. It cannot be copied.
 ## Relationship to Unified Mechanics
 
 The physics is in [`joseph-shields/unified-mechanics`](https://github.com/joseph-shields/unified-mechanics).
-The axiom `c² = c + 1` and its derivations live there. This repository takes
+The axiom `φ² = φ + 1` and its derivations live there. This repository takes
 the framework as given and applies it to biological systems. The
 [`shared_space.tex`](https://github.com/joseph-shields/unified-mechanics/blob/master/papers/shared_space.tex)
 paper in that repo is the bridge document between the two.
